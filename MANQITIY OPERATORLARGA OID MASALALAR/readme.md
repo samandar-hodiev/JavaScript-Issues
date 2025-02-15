@@ -114,19 +114,3 @@
 
 
 
-
-
-
-<hr><br><br><br>
-
-
-## `` if else ``
-
-    Butun son berilgan. Agar berilgan son musbat bo`lsa, 1 ga oshiring, aks holda 2 ga kamaytiring. Hosil bo`lgan sonni ekranga chiqaruvchi programma tuzilsin.
-
-   
-
-
-
-
-
